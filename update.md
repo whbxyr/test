@@ -3,3 +3,4 @@ jixu
 again
 fetch
 origin
+pull
